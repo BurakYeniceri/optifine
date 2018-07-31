@@ -11,10 +11,10 @@ of.key.zoom=Yakınlaştır
 
 # Message
 of.message.aa.shaders1=Düzgünleştirme shader ile uyumlu değildir.
-of.message.aa.shaders2=Bu ayarı açmak için lütfen shader kapatın.
+of.message.aa.shaders2=Bu ayarı açmak için lütfen açık olan shaderları kapatın.
 
 of.message.af.shaders1=Anizotropik filtreleme shaderlerle uyumlu değildir.
-of.message.af.shaders2=Bu ayarı açmak için lütfen shader kapatın.
+of.message.af.shaders2=Bu ayarı açmak için lütfen açık olan shaderları kapatın.
 
 of.message.fr.shaders1=Hızlı yükleme shader ile uyumlu değildir.
 of.message.fr.shaders2=Bu ayarı açmak için lütfen shader kapatın.
